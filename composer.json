@@ -1,5 +1,5 @@
 {
-  "name": "tinywan/jwt",
+  "name": "webman/jwt",
   "description": "JSON Web Token (JWT) for webman plugin",
   "type": "library",
   "license": "MIT",
